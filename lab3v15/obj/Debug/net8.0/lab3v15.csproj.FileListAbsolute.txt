@@ -1,0 +1,15 @@
+C:\Users\Паша\OOP-Sachok\lab3v15\bin\Debug\net8.0\lab3v15.exe
+C:\Users\Паша\OOP-Sachok\lab3v15\bin\Debug\net8.0\lab3v15.deps.json
+C:\Users\Паша\OOP-Sachok\lab3v15\bin\Debug\net8.0\lab3v15.runtimeconfig.json
+C:\Users\Паша\OOP-Sachok\lab3v15\bin\Debug\net8.0\lab3v15.dll
+C:\Users\Паша\OOP-Sachok\lab3v15\bin\Debug\net8.0\lab3v15.pdb
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.AssemblyInfoInputs.cache
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.AssemblyInfo.cs
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.csproj.CoreCompileInputs.cache
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.sourcelink.json
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.dll
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\refint\lab3v15.dll
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.pdb
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\lab3v15.genruntimeconfig.cache
+C:\Users\Паша\OOP-Sachok\lab3v15\obj\Debug\net8.0\ref\lab3v15.dll
